@@ -5,3 +5,5 @@ Amarillo
 Rojo 
 Negro 
 Naranja
+Blanco
+
