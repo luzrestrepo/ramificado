@@ -4,3 +4,6 @@ Cartagena
 Cali
 Valledupar
 Bogota
+Bogota 
+Valledupar 
+Cali 
