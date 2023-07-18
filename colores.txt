@@ -2,6 +2,7 @@ Azul
 Rosado
 Lila
 Amarillo
-Rojo 
-Negro 
+Rojo
+Negro
 Naranja
+verde
