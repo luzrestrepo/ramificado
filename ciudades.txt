@@ -1,3 +1,6 @@
 Medellin 
 Bogota
 Cartagena
+Cali
+Valledupar
+Bogota
