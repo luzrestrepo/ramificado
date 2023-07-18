@@ -3,3 +3,5 @@ luz
 Daniel
 Kevin 
 Dennis 
+Juan
+Daniel
