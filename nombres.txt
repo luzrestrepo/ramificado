@@ -4,4 +4,6 @@ Daniel
 Kevin 
 Dennis 
 Juan
-Daniel
+John
+Jose
+Maria
